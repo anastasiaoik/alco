@@ -9,4 +9,15 @@
 
 ![](https://repository-images.githubusercontent.com/147256094/b3821480-6c79-11e9-9f71-d80c770d70ed)
 
+## 3. Αποσπάσματα κώδικα
+
+* [read_data.cpp](/app/src/read_data.cpp): ανάγνωση δεδομένων [car-s-92.stu](./app/datasets/car-f-92.stu), καταγραφή φοιτητών ανά εξέταση.
+* [set_ops.cpp](/app/src/set_ops.cpp): εύρεση τομής ενός std::set<int> με ένα άλλο std::set<int>.
+* [random_numbers.cpp](./app/src/random_numbers.cpp), [random_numbers2.cpp](./app/src/random_numbers2.cpp): παραγωγή ψεύδο-τυχαίων ακέραιων τιμών στο διάστημα [1,V].
+* [greedy_coloring.cpp](./app/src/greedy_coloring.cpp): απεικόνιση γράφου ως λίστα γειτνίασης και greedy χρωματισμός του γράφου.
+* [count_common_elements.cpp](./app/src/count_common_elements.cpp) εύρεση πλήθους κοινών στοιχείων ανάμεσα σε 2 vectors.
+* [2d_array.cpp](./app/src/2d_array.cpp) δυναμικός δισδιάστατος πίνακας στη C++ (και στη C).
+* [graph_example.cpp](./app/src/graph_example.cpp) μια υλοποίηση της κλάσης graph για το πρόβλημα και μια υλοποίηση της συνάρτησης ελέγχου έγκυρου χρωματισμού του γραφήματος
+* [Stepik - Data structures - LEXICON](./stepik_ch6_lexicon/README.md)
+
 * https://anastasiaoik.github.io/alco/
