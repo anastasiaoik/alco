@@ -9,7 +9,7 @@
 
 ![](https://repository-images.githubusercontent.com/147256094/b3821480-6c79-11e9-9f71-d80c770d70ed)
 
-## 3. Αποσπάσματα κώδικα
+##  Αποσπάσματα κώδικα
 
 * [read_data.cpp](/app/src/read_data.cpp): ανάγνωση δεδομένων [car-s-92.stu](./app/datasets/car-f-92.stu), καταγραφή φοιτητών ανά εξέταση.
 * [set_ops.cpp](/app/src/set_ops.cpp): εύρεση τομής ενός std::set<int> με ένα άλλο std::set<int>.
