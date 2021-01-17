@@ -19,4 +19,4 @@
 * [2d_array.cpp](./app/src/2d_array.cpp) δυναμικός δισδιάστατος πίνακας στη C++ (και στη C).
 * [graph_example.cpp](./app/src/graph_example.cpp) μια υλοποίηση της κλάσης graph για το πρόβλημα και μια υλοποίηση της συνάρτησης ελέγχου έγκυρου χρωματισμού του γραφήματος
 * [Stepik - Data structures - LEXICON](./stepik_ch6_lexicon/README.md)
-![] https://github.com/anastasiaoik/alco/blob/main/alco15590%20%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC.pdf
+* pdf αναφοράς (https://github.com/anastasiaoik/alco/blob/main/alco15590%20%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC.pdf)
